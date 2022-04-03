@@ -5,6 +5,7 @@
 /compiler.xml
 /artifacts
 /modules.xml
+/uiDesigner.xml
 /*.iml
 /modules
 *.iml

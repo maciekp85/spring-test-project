@@ -11,6 +11,7 @@
     <modules>
         <module>r01</module>
         <module>ro2</module>
+        <module>r03</module>
     </modules>
 
     <properties>
